@@ -5,4 +5,4 @@ Used:
  
  * C
  * MySQL
- * C graphcs
+ * C graphics
